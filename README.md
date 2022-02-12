@@ -14,5 +14,5 @@
 ## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karascr&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=blue&right_color=grey)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=karascr&left_color=blue&right_color=grey)
 
